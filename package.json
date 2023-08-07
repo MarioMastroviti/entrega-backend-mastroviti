@@ -4,10 +4,9 @@
   },
   "name": "entrega1-backend",
   "version": "1.0.0",
-  "type": "module",
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon src/app.js"
   },
   "keywords": [],
   "author": "",
