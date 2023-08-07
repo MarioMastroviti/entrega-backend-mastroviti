@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "titulo": "producto 1 ",
+    "titulo": "producto 3 ",
     "descripcion": "descripcion del producto",
     "stock": 100,
     "categoria": "productoscat",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "titulo": "producto 2 ",
+    "titulo": "producto 3 ",
     "descripcion": "descripcion del producto",
     "stock": 100,
     "categoria": "productoscat",
@@ -126,59 +126,5 @@
     "stock": 100,
     "categoria": "productoscat",
     "precio": 2500
-  },
-  {
-    "id": 17,
-    "titulo": "producto 3 ",
-    "descripcion": "descripcion del producto",
-    "stock": 100,
-    "categoria": "productoscat",
-    "precio": 2500
-  },
-  {
-    "id": 18,
-    "titulo": "producto 3 ",
-    "descripcion": "descripcion del producto",
-    "stock": 100,
-    "categoria": "productoscat",
-    "precio": 2500
-  },
-  {
-    "id": 19,
-    "titulo": "producto 3 ",
-    "descripcion": "descripcion del producto",
-    "stock": 100,
-    "categoria": "productoscat",
-    "precio": 2500
-  },
-  {
-    "id": 20,
-    "titulo": "producto 3 ",
-    "descripcion": "descripcion del producto",
-    "stock": 100,
-    "categoria": "productoscat",
-    "precio": 2500
-  },
-  {
-    "id": 21,
-    "titulo": "producto 3 ",
-    "descripcion": "descripcion del producto",
-    "stock": 100,
-    "categoria": "productoscat",
-    "precio": 2500
-  },
-  {
-    "id": 22,
-    "titulo": "producto 3 ",
-    "descripcion": "descripcion del producto",
-    "stock": 100,
-    "categoria": "productoscat",
-    "precio": 2500
-  },
-  {
-    "id": 23
-  },
-  {
-    "id": 24
   }
 ]
