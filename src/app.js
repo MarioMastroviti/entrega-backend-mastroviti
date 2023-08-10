@@ -9,6 +9,7 @@ const cartRouter = require('../src/routes/cart.router');
 
 const PORT = 8080;
 
+app.use(express.json());
 app.use("/" , productsRouter);
 app.use("/" , cartRouter);
 

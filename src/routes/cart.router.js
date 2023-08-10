@@ -10,8 +10,9 @@ const carritos = new Contenedor('carrito.json');
 
 router.post('/api/cart', async (req, res) => {
     try {
-              const nuevoCarrito = await carritos.guardar(req.body);
-        res.json({ mensaje: 'Nuevo carrito creado', carritos: nuevoCarrito });
+        const newCarrito = req.body;
+        await carritos.guardar(newCarrito);
+        res.json({ mensaje: 'Nuevo carrito creado',});
     } catch (error) {
         res.status(500).json({ error: 'Error al crear el carrito' });
     }

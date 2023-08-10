@@ -84,21 +84,6 @@ async guardarObjeto(objetos){
     }
 }
 }
-/*
-const main = async() => {
-    
-    const productos = new Contenedor()
-
-    const id = await productos.guardar({
-        titulo: "producto 3 ",descripcion: "descripcion del producto",stock: 100,categoria: "productoscat", precio: 2500, 
-        
-    } )
-
-    const todosObjetos = await productos.obtenerTodo()
-     }
-
-    main().catch((error) =>console.error(error))*/
-    
 
 
 module.exports = Contenedor;
